@@ -2,17 +2,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D186F7&width=435&lines=Hello+!+I+am+Gauri+Behl)](https://git.io/typing-svg)
 
 # ABOUT ME
-  name: "Gauri Behl"
+
+  Name: Gauri Behl
   
   Education:
-  
-    degree: "BTech Information Technology"
 
-    college: "Bhagwan Parshuram Institute of Technology"
+  Degree: BTech in Information Technology
+
+  College: Bhagwan Parshuram Institute of Technology
     
-    CGPA: "8.95/10"
+   CGPA: 8.95/10
 
-  # SKILLS
+
+
+
+# SKILLS
 
 | Category                | Skills and Icons                                                                                                                                                             |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
