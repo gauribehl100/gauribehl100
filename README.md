@@ -3,18 +3,12 @@
 
 # ABOUT ME
 
-  Name: Gauri Behl
-  
-  Education:
-
-  Degree: BTech in Information Technology
-
-  College: Bhagwan Parshuram Institute of Technology
-    
-   CGPA: 8.95/10
-
-
-
+```yaml
+name: "Gauri Behl"
+Education:
+    degree: "BTech in Information Technology"
+    college: Bhagwan Parshuram Institute of Technology"
+```
 
 # SKILLS
 
