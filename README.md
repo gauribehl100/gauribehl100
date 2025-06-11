@@ -3,13 +3,16 @@
 
 # ABOUT ME
   name: "Gauri Behl"
+  
   Education:
+  
     degree: "BTech Information Technology"
-    university: "Bhagwan Parshuram Institute of Technology"
+
+    college: "Bhagwan Parshuram Institute of Technology"
+    
     CGPA: "8.95/10"
 
   # SKILLS
-  ## 🚀 SKILLS:
 
 | Category                | Skills and Icons                                                                                                                                                             |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
