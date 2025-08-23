@@ -21,4 +21,8 @@ Education:
 | **Backend as a Service** |![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
+# 📬 CONTACT ME
+
+- 📧 Email: [gauribehl02@gmail.com](mailto:gauribehl02@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/gauri-behl](https://www.linkedin.com/in/gauri-behl-93b0422a4/)  
 
